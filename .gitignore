@@ -1,5 +1,5 @@
 #ignore single files
-
+newfile2.txt
 newfile3.txt
 #ignore all files in a specific directory
 hello/
