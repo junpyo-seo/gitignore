@@ -1,1 +1,3 @@
-This is the content of new-file.txt
+Some contents in the new file
+
+One more line.
