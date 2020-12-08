@@ -10,3 +10,4 @@ hello/
 #visual studio temp files
 ProjectSettings.json
 slnx.sqlite
+.suo
